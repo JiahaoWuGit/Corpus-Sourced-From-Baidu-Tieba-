@@ -6,3 +6,15 @@
 - 数据链接：链接：https://pan.baidu.com/s/13-VWG8rYuQNwhNX1oXp7_w 提取码：bkt7 
 - 后续将会更新按照ECD的数据结构进行预处理过后的数据。
 
+# 一些中文语料库的链接
+
+
+https://github.com/SophonPlus/ChineseNlpCorpus
+
+https://github.com/InsaneLife/ChineseNLPCorpus
+
+https://github.com/candlewill/Dialog_Corpus
+
+https://github.com/CLUEbenchmark/CLUECorpus2020/
+
+https://github.com/brightmart/nlp_chinese_corpus
