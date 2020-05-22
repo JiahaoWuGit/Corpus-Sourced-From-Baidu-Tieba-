@@ -1,4 +1,3 @@
-# Corpus-Sourced-From-Baidu-Tieba-
 # Corpus Collected From Baidu Tieba.
 
 - 此语料库是从百度贴吧中收集所得，其中包含有20371个帖子，418464039（约4亿）条评论。
