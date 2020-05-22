@@ -4,4 +4,5 @@
 
 - 在dataWithoutPunc文件夹中,一个帖子中所有的评论储存在一个文件中。如帖子1的所有评论就储存在文件data (1).txt中。而文件中的每一行则代表着一条评论（而不是一句话）。
 - 数据链接：链接：https://pan.baidu.com/s/13-VWG8rYuQNwhNX1oXp7_w 提取码：bkt7 
+- 后续将会更新按照ECD的数据结构进行预处理过后的数据。
 
